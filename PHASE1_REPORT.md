@@ -173,5 +173,4 @@ fullstack-docker-app/
 - Added Nginx reverse proxy config.
 - Added docker-compose.yml.
 
----
-*Prepared for: Kiran Kumar A (Phase 1 — Containerization & Reverse Proxy setup)*
+
