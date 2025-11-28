@@ -19,7 +19,7 @@ This report summarizes the activities and outcomes of Phase 2 (Deployment on EC2
 -   - Build and push Docker images on `main` branch push.
 -   - SSH into EC2 and deploy updated containers using Docker Compose.
 - Configured GitHub Secrets: DOCKERHUB_USERNAME, DOCKERHUB_TOKEN, VM_SSH_HOST, VM_SSH_USER, VM_SSH_KEY.
-- Updated `docker-compose.yml` to pull images from Docker Hub instead of local builds.
+- Updated `docker-compose.yml` to pull images from Docker Hub instead of Local builds.
 - Created `.env` file for environment variables and added `.gitignore` entry to secure secrets.
 - Tested pipeline by pushing changes to `main` and verified automatic deployment on EC2.
 
