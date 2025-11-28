@@ -370,4 +370,3 @@ git push origin main
 
 ---
 
-**Prepared for:** Kiran Kumar A (Engineer - Cloud & Infra Management)
