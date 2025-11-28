@@ -1,2 +1,2 @@
-# Fullstack Docker App
+# FullStack Docker App
 # Trigger CI/CD
